@@ -1,0 +1,1 @@
+export { DiagnosisHistory } from './DiagnosisHistory';
